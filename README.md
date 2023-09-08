@@ -1,1 +1,3 @@
 # Notepad
+
+I have used HTML,CSS,JS for creating this NotePad......
