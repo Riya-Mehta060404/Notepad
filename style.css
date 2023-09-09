@@ -3,6 +3,17 @@ body {
   text-align: center;
   background: black;
 }
+h1{
+    color: White;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+button{
+  color: white;
+  background: blueviolet;
+  width: 100px;
+  height: 40px;
+}
 #notes-container {
   max-width: 400px;
   margin: 0 auto;
